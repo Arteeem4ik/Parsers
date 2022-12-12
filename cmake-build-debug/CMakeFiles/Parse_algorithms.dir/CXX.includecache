@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/artem/CLionProjects/abc/earley.cpp
+earley.h
+/Users/artem/CLionProjects/abc/earley.h
+
+/Users/artem/CLionProjects/abc/earley.h
+string
+-
+set
+-
+vector
+-
+tuple
+-
+
